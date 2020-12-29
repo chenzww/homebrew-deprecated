@@ -1,4 +1,4 @@
-class Gstreamer < Formula
+class GstreamerAT116 < Formula
   desc "Development framework for multimedia applications"
   homepage "https://gstreamer.freedesktop.org/"
   url "https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.16.0.tar.xz"
